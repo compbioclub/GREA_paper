@@ -13,6 +13,6 @@ pip install git+https://github.com/compbioclub/GREA.git@preprint
    Python scripts for running the **flu datasets**.
 - **`Run_cancer_benchmark/`**
    Python scripts for running the **cancer datasets**.
-- **`Run_plot_benchmark/`**
+- **`Run_plot/`**
    Python scripts for reproducing the figures in the paper, which read benchmark results and generate visualizations.
 
