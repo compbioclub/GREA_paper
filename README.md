@@ -7,6 +7,8 @@ This repository contains the code for running the GREA benchmark and the scripts
 pip install git+https://github.com/compbioclub/GREA.git@preprint
 ```
 
+📂 Benchmark result data can be downloaded here: https://zenodo.org/records/17082754
+
 ## Folder Structure
 
 - **`Run_flu_benchmark/`**
